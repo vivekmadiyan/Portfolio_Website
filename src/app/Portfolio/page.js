@@ -6,7 +6,7 @@ const Page = () => {
       <div className="relative w-full max-w-[1920px] h-[321px]">
         {/* Background Image */}
         <img
-          src="/port.png"
+          src="./port.png"
           alt="Portfolio Banner"
           className="w-full h-full object-cover"
         />
@@ -26,13 +26,13 @@ const Page = () => {
   </ul>
 </div>
 <div className="grid grid-cols-3 gap-0 p-0 m-0">
-  <img src="/img1.jpg" alt="Image 1" className="w-full h-auto" />
-  <img src="/img2.jpg" alt="Image 2" className="w-full h-[337.95]" />
-  <img src="/img3.jpg" alt="Image 3" className="w-full h-auto" />
+  <img src="./img1.jpg" alt="Image 1" className="w-full h-auto" />
+  <img src="./img2.jpg" alt="Image 2" className="w-full h-[337.95]" />
+  <img src="./img3.jpg" alt="Image 3" className="w-full h-auto" />
 
-  <img src="/img4.jpg" alt="Image 4" className="w-full  h-[337.95]" />
-  <img src="/img5.jpg" alt="Image 5" className="w-full h-auto" />
-  <img src="/img6.jpg" alt="Image 6" className="w-full h-auto" />
+  <img src="./img4.jpg" alt="Image 4" className="w-full  h-[337.95]" />
+  <img src="./img5.jpg" alt="Image 5" className="w-full h-auto" />
+  <img src="./img6.jpg" alt="Image 6" className="w-full h-auto" />
 </div>
 <div className='text-center bg-black text-white'>
     And many more to come!

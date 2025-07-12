@@ -12,7 +12,7 @@ const page = () => {
   </p>
 
   <img
-    src="/v.png"
+    src="./v.png"
     alt="Contact Illustration"
     className="absolute bottom-0 left-1/2 translate-x-[-50%] w-[100px] h-auto mt-8"
   />

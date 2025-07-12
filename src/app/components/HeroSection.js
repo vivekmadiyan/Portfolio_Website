@@ -14,9 +14,9 @@ const HeroSection = () => {
         <p className="text-gray-500 text-lg mb-8">Front-end Developer </p>
 
         <div className="flex space-x-6 ">
-          <a href="#" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="/Vector.png" alt="Email" width={24} height={24} /></a>
-          <a href="https://www.linkedin.com/in/vivekmadiyan" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="/paste.png" alt="GitHub" width={24} height={24} /></a>
-          <a href="https://github.com/vivekmadiyan" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="/link.png" alt="LinkedIn" width={24} height={24} /></a>
+          <a href="#" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="./Vector.png" alt="Email" width={24} height={24} /></a>
+          <a href="https://www.linkedin.com/in/vivekmadiyan" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="./paste.png" alt="GitHub" width={24} height={24} /></a>
+          <a href="https://github.com/vivekmadiyan" className='shadow-sm p-2 bg-[#C4C4C4]'><Image src="./link.png" alt="LinkedIn" width={24} height={24} /></a>
         </div>
       </div>
 
