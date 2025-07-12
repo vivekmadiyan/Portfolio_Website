@@ -1,3 +1,4 @@
+import React from 'react'
 const page = () => {
   return (
     <div className="bg-white w-screen h-screen flex flex-col items-center justify-start pt-14 space-y-6">
